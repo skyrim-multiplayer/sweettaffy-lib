@@ -1,2 +1,21 @@
 {
+  "library": [
+    {
+      "name": "правила",
+      "backImg": "rpRules",
+      "icon": "ui",
+      "url": [
+        "https://raw.githubusercontent.com/IceLeon911/testfrontlib/refs/heads/main/rules.md",
+        "https://raw.githubusercontent.com/IceLeon911/testfrontlib/refs/heads/main/dop.md"
+      ]
+    },
+    {
+      "name": "Руководство",
+      "backImg": "rpWork",
+      "icon": "guideScroll",
+      "url": [
+        "https://raw.githubusercontent.com/IceLeon911/testfrontlib/refs/heads/main/rukovodstvo.md"
+      ]
+    }
+  ]
 }
