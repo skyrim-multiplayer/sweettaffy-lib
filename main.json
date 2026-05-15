@@ -5,8 +5,12 @@
       "backImg": "rpRules",
       "icon": "ui",
       "url": [
-        "https://raw.githubusercontent.com/IceLeon911/testfrontlib/refs/heads/main/rules.md",
-        "https://raw.githubusercontent.com/IceLeon911/testfrontlib/refs/heads/main/dop.md"
+        "https://raw.githubusercontent.com/skyrim-multiplayer/sweettaffy-lib/refs/heads/main/rules.md",
+        "https://raw.githubusercontent.com/skyrim-multiplayer/sweettaffy-lib/refs/heads/main/dop.md",
+        "https://raw.githubusercontent.com/skyrim-multiplayer/sweettaffy-lib/refs/heads/main/prestupnost.md",
+        "https://raw.githubusercontent.com/skyrim-multiplayer/sweettaffy-lib/refs/heads/main/ooc.md",
+        "https://raw.githubusercontent.com/skyrim-multiplayer/sweettaffy-lib/refs/heads/main/zonanewcomer.md",
+        "https://raw.githubusercontent.com/skyrim-multiplayer/sweettaffy-lib/refs/heads/main/sistemanakazani.md"
       ]
     },
     {
